@@ -42,4 +42,7 @@ Human Resources | Business Analytics | Education & Training
 4. Impress recruiters or clients with real, actionable analytics
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](images/dashboard.png)
 
