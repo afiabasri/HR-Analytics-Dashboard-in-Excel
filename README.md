@@ -44,5 +44,5 @@ Human Resources | Business Analytics | Education & Training
 ---
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/afiabasri/HR-Analytics-Dashboard-in-Excel/blob/main/HR_Dashboard.png)
 
